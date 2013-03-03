@@ -1,0 +1,13 @@
+DNS Server
+usage: ./hw3 -i <hostname>
+
+Example: ./hw3 -i www.github.com
+
+
+
+Project description: http://www.cs.uic.edu/bin/view/CS450/Homework3
+
+Final grade: 11/11
+
+
+
